@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 a = int(input("Enter first number"))
 b = int(input("Enter second number"))
-result = a * b 
-print("The Multiplication of a and b is:", result)
->>>>>>> feature2
+result1 = a + b 
+print("The Addition of a and b is:", result1)
